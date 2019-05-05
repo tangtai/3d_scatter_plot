@@ -1,0 +1,22 @@
+.threeDChart {
+  width: 800px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 9px solid #ff7675;
+  border-radius: 55px;
+  overflow: hidden;
+}
+
+.chartTitle {
+  font-size: 30px;
+  padding: 30;
+  padding-bottom: 0.5em;
+  font-weight: bold;
+  opacity: 0.9;
+}
+
+span > b {
+  font-size: 10px;
+}

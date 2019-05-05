@@ -1,0 +1,702 @@
+[
+  {
+    "index": 1,
+    "xValue": -294,
+    "yValue": -634,
+    "zValue": -1389,
+    "R": 132
+  },
+  {
+    "index": 2,
+    "xValue": -686,
+    "yValue": -1099,
+    "zValue": 985,
+    "R": 86
+  },
+  {
+    "index": 3,
+    "xValue": 344,
+    "yValue": 882,
+    "zValue": 1393,
+    "R": 150
+  },
+  {
+    "index": 4,
+    "xValue": 313,
+    "yValue": 69,
+    "zValue": 1158,
+    "R": 84
+  },
+  {
+    "index": 5,
+    "xValue": -321,
+    "yValue": 182,
+    "zValue": -29,
+    "R": 84
+  },
+  {
+    "index": 6,
+    "xValue": 1182,
+    "yValue": -253,
+    "zValue": -100,
+    "R": 170
+  },
+  {
+    "index": 7,
+    "xValue": -1184,
+    "yValue": 1455,
+    "zValue": 831,
+    "R": 119
+  },
+  {
+    "index": 8,
+    "xValue": 219,
+    "yValue": 968,
+    "zValue": -946,
+    "R": 179
+  },
+  {
+    "index": 9,
+    "xValue": 859,
+    "yValue": -61,
+    "zValue": -1073,
+    "R": 179
+  },
+  {
+    "index": 10,
+    "xValue": 1482,
+    "yValue": 1411,
+    "zValue": 1411,
+    "R": 110
+  },
+  {
+    "index": 11,
+    "xValue": -811,
+    "yValue": 530,
+    "zValue": -961,
+    "R": 168
+  },
+  {
+    "index": 12,
+    "xValue": -458,
+    "yValue": -670,
+    "zValue": 543,
+    "R": 147
+  },
+  {
+    "index": 13,
+    "xValue": 381,
+    "yValue": 1296,
+    "zValue": -348,
+    "R": 160
+  },
+  {
+    "index": 14,
+    "xValue": 33,
+    "yValue": 1254,
+    "zValue": -392,
+    "R": 135
+  },
+  {
+    "index": 15,
+    "xValue": -684,
+    "yValue": 1305,
+    "zValue": -1191,
+    "R": 121
+  },
+  {
+    "index": 16,
+    "xValue": 1075,
+    "yValue": 344,
+    "zValue": 12,
+    "R": 126
+  },
+  {
+    "index": 17,
+    "xValue": 732,
+    "yValue": -308,
+    "zValue": 893,
+    "R": 180
+  },
+  {
+    "index": 18,
+    "xValue": 156,
+    "yValue": 81,
+    "zValue": 1323,
+    "R": 114
+  },
+  {
+    "index": 19,
+    "xValue": -1199,
+    "yValue": 923,
+    "zValue": -898,
+    "R": 126
+  },
+  {
+    "index": 20,
+    "xValue": -254,
+    "yValue": 27,
+    "zValue": 1181,
+    "R": 139
+  },
+  {
+    "index": 21,
+    "xValue": 645,
+    "yValue": 487,
+    "zValue": -770,
+    "R": 88
+  },
+  {
+    "index": 22,
+    "xValue": 27,
+    "yValue": -633,
+    "zValue": -756,
+    "R": 134
+  },
+  {
+    "index": 23,
+    "xValue": 1106,
+    "yValue": 323,
+    "zValue": -1269,
+    "R": 152
+  },
+  {
+    "index": 24,
+    "xValue": -569,
+    "yValue": -148,
+    "zValue": -673,
+    "R": 120
+  },
+  {
+    "index": 25,
+    "xValue": -1235,
+    "yValue": 1186,
+    "zValue": 456,
+    "R": 153
+  },
+  {
+    "index": 26,
+    "xValue": -611,
+    "yValue": -740,
+    "zValue": -702,
+    "R": 149
+  },
+  {
+    "index": 27,
+    "xValue": 1231,
+    "yValue": 779,
+    "zValue": -318,
+    "R": 147
+  },
+  {
+    "index": 28,
+    "xValue": 1346,
+    "yValue": -1306,
+    "zValue": -1163,
+    "R": 159
+  },
+  {
+    "index": 29,
+    "xValue": -631,
+    "yValue": -68,
+    "zValue": 1201,
+    "R": 148
+  },
+  {
+    "index": 30,
+    "xValue": 347,
+    "yValue": 162,
+    "zValue": 161,
+    "R": 103
+  },
+  {
+    "index": 31,
+    "xValue": 20,
+    "yValue": -1024,
+    "zValue": 640,
+    "R": 117
+  },
+  {
+    "index": 32,
+    "xValue": -993,
+    "yValue": 1108,
+    "zValue": 619,
+    "R": 113
+  },
+  {
+    "index": 33,
+    "xValue": -24,
+    "yValue": 437,
+    "zValue": 405,
+    "R": 168
+  },
+  {
+    "index": 34,
+    "xValue": -1490,
+    "yValue": 1141,
+    "zValue": -702,
+    "R": 154
+  },
+  {
+    "index": 35,
+    "xValue": -1138,
+    "yValue": 998,
+    "zValue": -1280,
+    "R": 127
+  },
+  {
+    "index": 36,
+    "xValue": 1215,
+    "yValue": 379,
+    "zValue": 1401,
+    "R": 118
+  },
+  {
+    "index": 37,
+    "xValue": 332,
+    "yValue": -929,
+    "zValue": -949,
+    "R": 146
+  },
+  {
+    "index": 38,
+    "xValue": -1223,
+    "yValue": 1368,
+    "zValue": -1113,
+    "R": 121
+  },
+  {
+    "index": 39,
+    "xValue": -35,
+    "yValue": 373,
+    "zValue": 5,
+    "R": 126
+  },
+  {
+    "index": 40,
+    "xValue": -435,
+    "yValue": -973,
+    "zValue": 556,
+    "R": 120
+  },
+  {
+    "index": 41,
+    "xValue": 859,
+    "yValue": 837,
+    "zValue": -1093,
+    "R": 102
+  },
+  {
+    "index": 42,
+    "xValue": 314,
+    "yValue": -701,
+    "zValue": -1277,
+    "R": 83
+  },
+  {
+    "index": 43,
+    "xValue": 126,
+    "yValue": 250,
+    "zValue": 1034,
+    "R": 153
+  },
+  {
+    "index": 44,
+    "xValue": -890,
+    "yValue": 598,
+    "zValue": 1139,
+    "R": 107
+  },
+  {
+    "index": 45,
+    "xValue": -1212,
+    "yValue": 812,
+    "zValue": -1024,
+    "R": 76
+  },
+  {
+    "index": 46,
+    "xValue": 352,
+    "yValue": -301,
+    "zValue": 554,
+    "R": 167
+  },
+  {
+    "index": 47,
+    "xValue": 1329,
+    "yValue": 181,
+    "zValue": -632,
+    "R": 76
+  },
+  {
+    "index": 48,
+    "xValue": 954,
+    "yValue": 508,
+    "zValue": -309,
+    "R": 90
+  },
+  {
+    "index": 49,
+    "xValue": 225,
+    "yValue": -1153,
+    "zValue": 1446,
+    "R": 84
+  },
+  {
+    "index": 50,
+    "xValue": -648,
+    "yValue": -862,
+    "zValue": -504,
+    "R": 112
+  },
+  {
+    "index": 51,
+    "xValue": -439,
+    "yValue": 857,
+    "zValue": 748,
+    "R": 171
+  },
+  {
+    "index": 52,
+    "xValue": -252,
+    "yValue": -980,
+    "zValue": -782,
+    "R": 158
+  },
+  {
+    "index": 53,
+    "xValue": -13,
+    "yValue": 492,
+    "zValue": -434,
+    "R": 160
+  },
+  {
+    "index": 54,
+    "xValue": -247,
+    "yValue": 1350,
+    "zValue": 1218,
+    "R": 95
+  },
+  {
+    "index": 55,
+    "xValue": -1093,
+    "yValue": -1124,
+    "zValue": 579,
+    "R": 106
+  },
+  {
+    "index": 56,
+    "xValue": -762,
+    "yValue": -1168,
+    "zValue": 1179,
+    "R": 163
+  },
+  {
+    "index": 57,
+    "xValue": 322,
+    "yValue": -709,
+    "zValue": 903,
+    "R": 129
+  },
+  {
+    "index": 58,
+    "xValue": -228,
+    "yValue": -1027,
+    "zValue": -299,
+    "R": 116
+  },
+  {
+    "index": 59,
+    "xValue": 1144,
+    "yValue": 892,
+    "zValue": 1168,
+    "R": 157
+  },
+  {
+    "index": 60,
+    "xValue": -396,
+    "yValue": -105,
+    "zValue": -849,
+    "R": 130
+  },
+  {
+    "index": 61,
+    "xValue": 1331,
+    "yValue": -134,
+    "zValue": -1351,
+    "R": 156
+  },
+  {
+    "index": 62,
+    "xValue": 724,
+    "yValue": -968,
+    "zValue": 962,
+    "R": 114
+  },
+  {
+    "index": 63,
+    "xValue": 353,
+    "yValue": 99,
+    "zValue": -1172,
+    "R": 79
+  },
+  {
+    "index": 64,
+    "xValue": -290,
+    "yValue": 1170,
+    "zValue": -889,
+    "R": 168
+  },
+  {
+    "index": 65,
+    "xValue": -625,
+    "yValue": 1120,
+    "zValue": 984,
+    "R": 115
+  },
+  {
+    "index": 66,
+    "xValue": -1394,
+    "yValue": -266,
+    "zValue": -846,
+    "R": 169
+  },
+  {
+    "index": 67,
+    "xValue": 658,
+    "yValue": -1485,
+    "zValue": 68,
+    "R": 121
+  },
+  {
+    "index": 68,
+    "xValue": -405,
+    "yValue": -1482,
+    "zValue": 78,
+    "R": 141
+  },
+  {
+    "index": 69,
+    "xValue": -620,
+    "yValue": 557,
+    "zValue": 99,
+    "R": 109
+  },
+  {
+    "index": 70,
+    "xValue": 1256,
+    "yValue": 166,
+    "zValue": -1248,
+    "R": 161
+  },
+  {
+    "index": 71,
+    "xValue": 750,
+    "yValue": 1138,
+    "zValue": 933,
+    "R": 180
+  },
+  {
+    "index": 72,
+    "xValue": 152,
+    "yValue": 995,
+    "zValue": 421,
+    "R": 92
+  },
+  {
+    "index": 73,
+    "xValue": -1240,
+    "yValue": -1006,
+    "zValue": -428,
+    "R": 79
+  },
+  {
+    "index": 74,
+    "xValue": -451,
+    "yValue": -200,
+    "zValue": -985,
+    "R": 92
+  },
+  {
+    "index": 75,
+    "xValue": -1222,
+    "yValue": -919,
+    "zValue": 1475,
+    "R": 138
+  },
+  {
+    "index": 76,
+    "xValue": 910,
+    "yValue": 243,
+    "zValue": 1407,
+    "R": 137
+  },
+  {
+    "index": 77,
+    "xValue": -11,
+    "yValue": -564,
+    "zValue": -1132,
+    "R": 176
+  },
+  {
+    "index": 78,
+    "xValue": -911,
+    "yValue": 264,
+    "zValue": 463,
+    "R": 89
+  },
+  {
+    "index": 79,
+    "xValue": 527,
+    "yValue": 516,
+    "zValue": 749,
+    "R": 179
+  },
+  {
+    "index": 80,
+    "xValue": -1017,
+    "yValue": 917,
+    "zValue": -633,
+    "R": 122
+  },
+  {
+    "index": 81,
+    "xValue": -1413,
+    "yValue": -702,
+    "zValue": 1081,
+    "R": 175
+  },
+  {
+    "index": 82,
+    "xValue": -245,
+    "yValue": -1237,
+    "zValue": -1136,
+    "R": 110
+  },
+  {
+    "index": 83,
+    "xValue": 1293,
+    "yValue": -1436,
+    "zValue": 194,
+    "R": 119
+  },
+  {
+    "index": 84,
+    "xValue": -216,
+    "yValue": -152,
+    "zValue": -747,
+    "R": 138
+  },
+  {
+    "index": 85,
+    "xValue": -60,
+    "yValue": -742,
+    "zValue": 522,
+    "R": 78
+  },
+  {
+    "index": 86,
+    "xValue": 408,
+    "yValue": -689,
+    "zValue": 1091,
+    "R": 77
+  },
+  {
+    "index": 87,
+    "xValue": 288,
+    "yValue": 1305,
+    "zValue": -1162,
+    "R": 120
+  },
+  {
+    "index": 88,
+    "xValue": 877,
+    "yValue": 1268,
+    "zValue": 1060,
+    "R": 131
+  },
+  {
+    "index": 89,
+    "xValue": -578,
+    "yValue": -732,
+    "zValue": -649,
+    "R": 107
+  },
+  {
+    "index": 90,
+    "xValue": -443,
+    "yValue": 744,
+    "zValue": 366,
+    "R": 154
+  },
+  {
+    "index": 91,
+    "xValue": -879,
+    "yValue": 682,
+    "zValue": 568,
+    "R": 113
+  },
+  {
+    "index": 92,
+    "xValue": 201,
+    "yValue": 1388,
+    "zValue": -255,
+    "R": 81
+  },
+  {
+    "index": 93,
+    "xValue": 715,
+    "yValue": -85,
+    "zValue": -1200,
+    "R": 129
+  },
+  {
+    "index": 94,
+    "xValue": -31,
+    "yValue": -168,
+    "zValue": -225,
+    "R": 83
+  },
+  {
+    "index": 95,
+    "xValue": -88,
+    "yValue": -467,
+    "zValue": -959,
+    "R": 171
+  },
+  {
+    "index": 96,
+    "xValue": -552,
+    "yValue": 1139,
+    "zValue": -1,
+    "R": 177
+  },
+  {
+    "index": 97,
+    "xValue": -1149,
+    "yValue": 657,
+    "zValue": -1214,
+    "R": 151
+  },
+  {
+    "index": 98,
+    "xValue": -1017,
+    "yValue": 344,
+    "zValue": 201,
+    "R": 87
+  },
+  {
+    "index": 99,
+    "xValue": 867,
+    "yValue": 907,
+    "zValue": 166,
+    "R": 163
+  },
+  {
+    "index": 100,
+    "xValue": -569,
+    "yValue": -1017,
+    "zValue": -433,
+    "R": 141
+  }
+]
