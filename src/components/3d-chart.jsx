@@ -13,10 +13,6 @@ export default class Chart extends Component {
     this.loadData();
   }
 
-  componentDidUpdate() {
-    console.log(this.state);
-  }
-
   loadData() {
     const loadData = true;
     if (loadData) {
@@ -48,9 +44,6 @@ export default class Chart extends Component {
       var hrMean = d3.mean(data, function(d) {
         return d.R;
       });
-      console.log(hrMean);
-      console.log(hrMin);
-      console.log(hrMax);
       const xScale = d3
         .scaleLinear()
         .domain([xMin, xMax])
@@ -95,6 +88,27 @@ export default class Chart extends Component {
       <div>
         <h2 className="chartTitle">3D Scatter Plot</h2>
         <Scatter data={this.state.data} scale={this.state.scales} />
+        <div>
+          Flamingos{" "}
+          <a
+            href="https://www.freepik.com/?__hstc=57440181.9b1c6d182888bcb40813763651c94975.1557075468580.1557075468580.1557075468580.1&__hssc=57440181.3.1557075468581&__hsfp=3229653487"
+            title="Freepik"
+          >
+            Freepik
+          </a>{" "}
+          from{" "}
+          <a href="https://www.flaticon.com/" title="Flaticon">
+            www.flaticon.com
+          </a>{" "}
+          is licensed by{" "}
+          <a
+            href="http://creativecommons.org/licenses/by/3.0/"
+            title="Creative Commons BY 3.0"
+            target="_blank"
+          >
+            CC 3.0 BY
+          </a>
+        </div>
       </div>
     );
   }

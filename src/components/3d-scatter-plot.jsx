@@ -93,10 +93,11 @@ export default class Scatter extends Component {
       <div
         className="chartContainer"
         style={{
+          paddingTop: "170px",
+          paddingBottom: "100px",
           display: "flex",
           alignContent: "center",
-          justifyContent: "center",
-          backgroundColor: "black"
+          justifyContent: "center"
         }}
       >
         <div

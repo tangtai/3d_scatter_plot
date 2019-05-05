@@ -17,6 +17,13 @@
   opacity: 0.9;
 }
 
+.chartContainer {
+  background-image: url(./flamingo.svg);
+  background-position: center;
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+}
+
 span > b {
   font-size: 10px;
 }
