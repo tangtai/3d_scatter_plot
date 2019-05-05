@@ -9,6 +9,6 @@
 
 ### Usage
 ---
-'npm start'
+`npm start`
 
 
